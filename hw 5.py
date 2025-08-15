@@ -8,4 +8,4 @@ print (v)
 print ()
 
 a = int(input('give a:'))
-b = int(input('give b:'))
+b = int(input('give b:')) #comment for looking at how to save changed on github after repository is already on it
